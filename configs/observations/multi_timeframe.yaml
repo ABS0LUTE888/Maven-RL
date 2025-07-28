@@ -1,0 +1,4 @@
+name: multi_timeframe_observation_builder
+kwargs:
+  window_size_1m: 60
+  window_size_5m: 96

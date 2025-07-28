@@ -1,0 +1,3 @@
+name: min_trade_duration_mask
+kwargs:
+  min_trade_duration: 45

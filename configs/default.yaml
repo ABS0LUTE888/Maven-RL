@@ -1,0 +1,13 @@
+defaults:
+  - paths: local
+  - env: base
+  - reward: risk_adjusted
+  - feature_extractor: tcn
+  - observations: multi_timeframe
+  - metrics: default
+  - mask: min_trade_duration
+  - algo: ppo
+  - _self_
+hydra:
+  run:
+    dir: outputs/hydra

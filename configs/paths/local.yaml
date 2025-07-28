@@ -1,0 +1,12 @@
+model_name: maven
+
+raw_data_dir: data/raw
+dataset_dir: data/episodes
+
+train_episodes: ${paths.dataset_dir}/train.pkl
+validate_episodes: ${paths.dataset_dir}/validate.pkl
+test_episodes: ${paths.dataset_dir}/test.pkl
+
+model_dir: outputs/models
+logs_dir: outputs/logs
+checkpoint_dir: outputs/checkpoints

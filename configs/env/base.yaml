@@ -1,0 +1,12 @@
+episodes_path: ${paths.train_episodes}
+device: "auto"
+n_envs: 1
+max_num_trades: 1
+seed: 8888
+leverage: 10
+maintenance_margin_rate: 0.005
+open_fee: 0.00055
+close_fee: 0.00055
+min_trades_required: 2
+initial_balance: 1000
+max_position_timesteps: 600
