@@ -1,4 +1,7 @@
+<img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/a1f61606-fcfc-4928-8a46-166f2c6d47b3" />
+
 # Maven-RL
+
 Maven-RL is a research-focused reinforcement learning framework for developing and testing trading agents in simulated
 environments. Developed by **Ilya (Ilia) Shilov** and **Viacheslav Pomeshchikov**.
 
